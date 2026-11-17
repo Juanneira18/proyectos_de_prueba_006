@@ -1,0 +1,1 @@
+era una apgina que hacia referencia a una institucion educacion y su publicidad ,pero lo modifique, analize y entendi mi primer proyecto(bien basico s itu quieres), lo convertir en un tipo blog y venta,......ok es una basura, lo reconosco,pero en fin, creare mejores proyectos
